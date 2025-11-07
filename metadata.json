@@ -1,0 +1,7 @@
+{
+  "name": "Real-Time Audio Function Calls with Zephyr",
+  "description": "An interactive sandbox for Gemini's native audio and function calling. Exploring inter LLM context loops and A2A with functions, api's and MCP's",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
